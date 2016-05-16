@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\date_number_background.xml",
+        "source": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\bundles\\debug\\res\\drawable\\date_number_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\normal_day.xml",
+        "source": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\bundles\\debug\\res\\drawable\\normal_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\today.xml",
+        "source": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\bundles\\debug\\res\\drawable\\today.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\day_selected.xml",
+        "source": "C:\\Users\\William\\AppDevelopment\\ForexSDRHub\\extendedcalendarview\\build\\intermediates\\bundles\\debug\\res\\drawable\\day_selected.xml"
+    }
+]
